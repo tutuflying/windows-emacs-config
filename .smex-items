@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ html-mode
+ css-mode
+ color-theme-select
+ cd
+ lm
+ mf
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (color-theme-select . 1)
+ (css-mode . 1)
+ (html-mode . 1)
+ (ruby-decomment-region . 1)
+)

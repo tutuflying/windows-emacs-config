@@ -1,0 +1,8 @@
+;;; Automatically generated on Tue Aug 28 15:16:26 2012
+;;; Invoked by zhaoyijun@LIBA-3531 using 23.3.1
+(setq-default session-file-alist '(("~/.emacs.d/init.el" 2020 3138 1 nil nil 2020 (overwrite-mode)) ("~/.emacs" 40 40 1 nil nil 40 (overwrite-mode)) (#("c:/Users/zhaoyijun/Desktop/- 副本.emacs" 29 37 ...) 338 284 1 nil nil 338 (overwrite-mode)) ("c:/dev/src/test2.coffee" 2059 nil 1 nil nil 1 (overwrite-mode)) ("c:/dev/js/test.html" 611 nil 1 nil nil 611 (overwrite-mode)) ("c:/dev/js/css.css" 1 nil 1 nil nil 1 (overwrite-mode))))
+(setq-default file-name-history '("d:/elisp/init.el" "c:/emacs/.emacs.d/init.el" "c:/emacs/.emacs" #("c:/Users/zhaoyijun/Desktop/- 副本.emacs" 29 37 (charset chinese-gbk)) "c:/dev/src/test2.coffee" "c:/dev/js/test.html" "c:/dev/js/css.css" "~/.ido.last" "~/.emacs.d/init.el" "~/.emacs"))
+(setq-default command-history '((find-file "c:/emacs/.emacs.d/init.el") (find-file "c:/emacs/.emacs") (ruby-decomment-region (region-beginning) (region-end)) (find-file "c:/dev/src/test2.coffee") (html-mode) (find-file "c:/dev/js/test.html") (css-mode) (find-file "c:/dev/js/css.css") (color-theme-select nil)))
+(setq-default ido-file-history '("init.e" ".emacs.d/" ".emacs" "~/" ".emacs." ".emacs.d" "test2.c" "sr" "../" ".." "test.html" "css.css" "js/" "dev/" "C:/"))
+(setq-default minibuffer-history '("comment-region" "Chinese-GBk" "html-m" "css-mode" "color-theme-sel"))
+(setq-default smex-history '(html-mode css-mode color-theme-select cd lm mf 5x5))
